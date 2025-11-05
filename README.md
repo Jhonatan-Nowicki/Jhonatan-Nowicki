@@ -12,7 +12,7 @@
 ## 🚀 Sobre mim
 Sou um desenvolvedor apaixonado por transformar ideias em código e resultados reais.  
 Depois de 6 anos trabalhando nas ruas como motoboy, decidi seguir o que realmente me motiva: **a programação**.  
-Desde então, venho construindo sistemas completos — do backend ao front — e ajudando negócios reais a crescer através da tecnologia.
+Desde então, venho construindo sistemas completos do backend ao front e ajudando negócios reais a crescer através da tecnologia.
 
 Hoje meu foco é evoluir como **desenvolvedor backend júnior**, dominando **Java + Spring Boot**, mas também explorando **Android** e **Web** para me tornar um profissional completo.
 
