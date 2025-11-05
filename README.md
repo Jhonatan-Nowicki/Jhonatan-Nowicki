@@ -28,7 +28,7 @@ Hoje meu foco é evoluir como **desenvolvedor backend júnior**, dominando **Jav
   <img height="35" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
 </div>
 
-> Explorando também: <img height="20" src="https://cdn.simpleicons.org/android/3DDC84" alt="Android"/> **Android** e <img height="20" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"/> **React**.
+> Explorando também: <img height="25" src="https://cdn.simpleicons.org/android/3DDC84" alt="Android"/> **Android** e <img height="20" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"/> **React**.
 
 
 ---
@@ -36,7 +36,7 @@ Hoje meu foco é evoluir como **desenvolvedor backend júnior**, dominando **Jav
 ## 📂 Projetos em Destaque
 
 ### 🧾 [Marmitex da Alice](https://github.com/Jhonatan-Nowicki/Marmitex-da-Alice)
-Sistema completo para pedidos de marmitas — com painel administrativo, controle de troco, impressão de recibos e integração local via Flask.  
+Sistema completo para pedidos de marmitas com painel administrativo, controle de troco, impressão de recibos e integração local via Flask.  
 **Tecnologias:** Python (Flask), JavaScript, TailwindCSS, JSON local.
 
 > 🔹 Projeto real usado por um comércio.  
@@ -45,18 +45,23 @@ Sistema completo para pedidos de marmitas — com painel administrativo, control
 
 ---
 
-### ❄️ [Biratec Refrigeração](https://github.com/Jhonatan-Nowicki/biratec-refrigeracao)
-Website institucional criado para empresa de refrigeração, com SEO completo, meta tags otimizadas e integração via Netlify.  
-**Tecnologias:** React, TailwindCSS, Vite, SEO otimizado, Google Business.
+### ❄️ Biratec Refrigeração — Landing Page
+Landing page institucional focada em conversão (assistência técnica em Fazenda Rio Grande),
+com otimização de SEO e integração ao ecossistema Google.
 
-> 🔹 Site leve e profissional com alta performance.  
-> 🔹 Configuração de sitemap e robots.txt para indexação.  
-> 🔹 Design moderno e responsivo.
+**Destaques**
+- ✅ SEO completo: `robots.txt`, `sitemap.xml`, canonical e Open Graph
+- ✅ **Schema.org/LocalBusiness** + verificação no **Google Search Console**
+- ✅ Botões de **WhatsApp** estratégicos (CTA principal)
+- ✅ **Lighthouse ≥ 95** em Performance/A11y (páginas leves e responsivas)
+- ✅ Deploy na **Netlify** com domínio customizado e **SSL automático**
+
+**Tecnologias**: React, Vite, Tailwind CSS, Netlify, Google Search Console, Google Business Profile
 
 ---
 
 ### 🏍️ [Projeto Motoboy (em desenvolvimento)](https://github.com/Jhonatan-Nowicki/projeto-motoboy)
-Sistema de controle financeiro para motoboys — registrando ganhos, despesas com combustível e manutenção, além de relatórios mensais.  
+Sistema de controle financeiro para motoboys registrando ganhos, despesas com combustível e manutenção, além de relatórios mensais.  
 **Tecnologias:** Java, Spring Boot, MySQL, IntelliJ IDEA.
 
 > 🔹 API RESTful com CRUD completo.  
