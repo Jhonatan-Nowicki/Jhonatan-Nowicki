@@ -1,7 +1,8 @@
 **<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Jhonatan-Nowicki/banner.png" alt="Banner de Jhonatan Nowicki">
+  <img src="https://github.com/Jhonatan-Nowicki/Jhonatan-Nowicki/blob/main/banner.png" alt="Banner Jhonatan Nowicki">
 </p>
+
 
 <h1 align="center">👋 Olá, eu sou o Jhonatan Nowicki</h1>
 <p align="center">💻 Desenvolvedor <strong>Java Backend</strong> | Spring Boot • REST APIs • MySQL</p>
