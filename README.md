@@ -20,15 +20,16 @@ Hoje meu foco é evoluir como **desenvolvedor backend júnior**, dominando **Jav
 
 ## 🧠 Stack Principal
 <div align="center">
-  <img height="30" src="https://cdn.simpleicons.org/java" alt="Java"/>
-  <img height="30" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot"/>
-  <img height="30" src="https://cdn.simpleicons.org/mysql" alt="MySQL"/>
-  <img height="30" src="https://cdn.simpleicons.org/docker" alt="Docker"/>
-  <img height="30" src="https://cdn.simpleicons.org/git" alt="Git"/>
-  <img height="30" src="https://cdn.simpleicons.org/github" alt="GitHub"/>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java"/>
+  <img height="34" src="https://cdn.simpleicons.org/spring/6DB33F" alt="Spring Boot"/>
+  <img height="35" src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL"/>
+  <img height="35" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker"/>
+  <img height="35" src="https://cdn.simpleicons.org/git/F05032" alt="Git"/>
+  <img height="35" src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub"/>
 </div>
 
-> Explorando também: <img height="20" src="https://cdn.simpleicons.org/android" alt="Android"/> Android e <img height="20" src="https://cdn.simpleicons.org/react" alt="React"/> React.
+> Explorando também: <img height="20" src="https://cdn.simpleicons.org/android/3DDC84" alt="Android"/> **Android** e <img height="20" src="https://cdn.simpleicons.org/react/61DAFB" alt="React"/> **React**.
+
 
 ---
 
@@ -67,17 +68,25 @@ Sistema de controle financeiro para motoboys — registrando ganhos, despesas co
 ## 📚 Atualmente estudando
 - 🧩 **Spring Security e JWT**
 - 🐳 **Docker e deploy de APIs**
-- ☕ **Android nativo com Java**
+- ☕ **Android nativo com Java / Kotlin**
 - 🌎 **Inglês técnico para leitura de documentação**
 
 ---
 
 ## 📬 Como me encontrar
 <div align="center">
-  <a href="https://www.linkedin.com/in/jhonatan-nowicki-dev"><img src="https://cdn.simpleicons.org/linkedin" height="28" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5541987999296?text=Ol%C3%A1%20Jhonatan!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar."><img src="https://cdn.simpleicons.org/whatsapp" height="28" alt="WhatsApp"/></a>
-  <a href="mailto:jhonatan.dev@exemplo.com"><img src="https://cdn.simpleicons.org/gmail" height="28" alt="E-mail"/></a>
+  <a href="https://www.linkedin.com/in/jhonatan-nowicki-dev" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="28" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5541987999296?text=Ol%C3%A1%20Jhonatan!%20Vi%20seu%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="28" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:jhonatan.n.dev@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="E-mail"/>
+  </a>
 </div>
+
+
 
 ---
 
@@ -88,4 +97,3 @@ Sistema de controle financeiro para motoboys — registrando ganhos, despesas co
 
 ⭐ **Se gostou dos meus projetos, deixe uma estrela!**  
 Isso ajuda muito no meu crescimento como dev 🚀
-**
